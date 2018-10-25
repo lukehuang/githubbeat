@@ -5,7 +5,7 @@ import (
 
 	"github.com/ressedpanda/githubbeat/cmd"
 
-	_ "github.com/ressedpanda/githubbeat/include"
+	//_ "github.com/ressedpanda/githubbeat/include"
 )
 
 func main() {

@@ -1,7 +1,9 @@
 /.idea
 /build
+data/
 
 .DS_Store
 /githubbeat
 /githubbeat.test
 *.pyc
+*~
